@@ -1,7 +1,5 @@
 <img width="1984" height="992" alt="Robert Lanz&#39;s GitHub banner" src="https://github.com/user-attachments/assets/2c18d446-fad7-44a4-bcf3-f6d6e314a449" />
 
-## Hi there 👋
-
 <!--
 **RL89744/RL89744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +22,7 @@ Based in Berlin. Exploring the potential of AI as a creative tool. Passionate ab
 
 ---
 
-## 🎨 What I Do
+## What I Do
 
 I work across disciplines:
 - **Creative Coding** — Scripts and tools that bridge art and engineering
@@ -50,7 +48,7 @@ I work across disciplines:
          
           - ---
 
-          ## 📚 Current Focus
+          ## Current Focus
 
           - Automating creative workflows with AI
           - - Building personal knowledge management systems
