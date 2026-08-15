@@ -32,7 +32,7 @@ I work across disciplines:
      
       - ---
 
-      ## 🔧 Featured Projects
+      ## Featured Projects
 
       ### **[Cowork Skills](https://github.com/RL89744/cowork-skills)**
       Custom Claude Cowork automation skills for productivity workflows.
@@ -57,7 +57,7 @@ I work across disciplines:
                
                 - ---
 
-                ## 🌐 Connect
+                ## Connect
 
                 - **Website** — [robertlanz.com](https://robertlanz.com/)
                 - - **Studio** — STUDIO ROBERT LANZ
