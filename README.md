@@ -1,4 +1,3 @@
-![LANZ — Artist • AI • Creative Coding](https://github.com/RL89744/RL89744/blob/main/lanz-banner.png?raw=true)
 
 ## Hi there 👋
 
