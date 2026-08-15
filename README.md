@@ -1,3 +1,4 @@
+<img width="1984" height="992" alt="Robert Lanz&#39;s GitHub banner" src="https://github.com/user-attachments/assets/2c18d446-fad7-44a4-bcf3-f6d6e314a449" />
 
 ## Hi there 👋
 
