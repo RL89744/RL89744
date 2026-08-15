@@ -1,69 +1,108 @@
 <img width="1984" height="992" alt="Robert Lanz&#39;s GitHub banner" src="https://github.com/user-attachments/assets/2c18d446-fad7-44a4-bcf3-f6d6e314a449" />
 
-<!--
-**RL89744/RL89744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Robert Lanz
+### Artist • AI • Creative Coding • Experimental Workflows
 
-**Artist • AI • Creative Coding** — Building experimental workflows at the intersection of art and technology.
-
-Based in Berlin. Exploring the potential of AI as a creative tool. Passionate about knowledge systems, automation, and turning ideas into tangible workflows.
+Berlin-based visual artist and technologist exploring the intersection of art, material practice, and algorithmic thinking. I build experimental workflows that bridge traditional artistic methods with AI-assisted creative systems.
 
 ---
 
 ## What I Do
 
-I work across disciplines:
-- **Creative Coding** — Scripts and tools that bridge art and engineering
-- - **AI Integration** — Leveraging Claude and other models for workflow optimization
-  - - **Knowledge Systems** — Building personal information architectures with Obsidian and custom tools
-    - - **Experimental Prototypes** — From concept to implementation, rapidly testing ideas
-     
-      - ---
+**Material-Based Experimentation**
+Contemporary visual works exploring material transformation, light, and perception through painting, sculpture, and film. Current focus: sculptural artefacts and fragmented narratives.
 
-      ## Featured Projects
+**Creative Coding & Automation**
+Designing systems that enhance creative workflows — knowledge management architectures, AI-assisted ideation, rapid prototyping frameworks. Building reusable tools and automation skills for complex creative processes.
 
-      ### **[Cowork Skills](https://github.com/RL89744/cowork-skills)**
-      Custom Claude Cowork automation skills for productivity workflows.
-      - `chat-compaction` — Compress conversations for token-efficient handovers
-      - - `ki-spuren-entfernen` — Remove AI traces from German text
-        - - `schnellrecherche` — Rapid research and information gathering
-         
-          - ### **[Claude Sandbox](https://github.com/RL89744/claude-sandbox)**
-          - Experimental playground for AI-assisted workflows and creative prototyping.
-         
-          - ### **[Skills Marketplace](https://github.com/RL89744/Skills-Marketplace-)**
-          - Curated collection of reusable automation skills and workflows.
-         
-          - ---
+**Experimental Practice**
+Merging traditional artistic inquiry with computational methods. Exploring digital documentation, 3D scanning, NFT-linked archives, and algorithmic approaches to material research.
 
-          ## Current Focus
+---
 
-          - Automating creative workflows with AI
-          - - Building personal knowledge management systems
-            - - Experimenting with AI-assisted art and design processes
-              - - Developing tools for rapid prototyping and ideation
-               
-                - ---
+## Featured Work
 
-                ## Connect
+### **TSANTSA NOVA** (2025)
+Four sculptural artefacts exploring transformation, fragmentation, and meaning. Material-based practice with embedded conceptual frameworks.
+→ [View on website](https://robertlanz.com/tsantsa-nova/)
 
-                - **Website** — [robertlanz.com](https://robertlanz.com/)
-                - - **Studio** — STUDIO ROBERT LANZ
-                  - - **Location** — Berlin, Germany
-                    - - **Socials** — [Instagram](https://instagram.com/robert_lanz_) · [Twitter](https://twitter.com/robert_lanz_) · [Bluesky](https://bsky.app/profile/robertlanz.bsky.social)
-                     
-                      - ---
+### **DIS/PERSION** (2025)  
+Fragmented painting transformed into 82 individually numbered glass vials. Combines physical objects, QR codes, digital archives, and NFT-linked editions.
+→ [View project](https://robertlanz.com/dis-persion/)
 
-                      *Curious about AI, workflows, and creative systems? Let's collaborate.*
+### **AERIS**
+Mobile exhibition system reimagining post-institutional display models.
+→ [Galerie Weekend Special](https://robertlanz.com/aeris)
+
+---
+
+## Tech Stack & Tools
+
+- **AI & Automation**: Claude API, workflow optimization, prompt engineering
+- **Knowledge Systems**: Obsidian, structured note-taking, PKM architecture
+- **Creative Tools**: 3D scanning (Polycam), digital documentation, NFT integrations
+- **Development**: Python, Node.js, automation scripting, data workflows
+- **Platforms**: GitHub, Cowork, AI-assisted creative systems
+
+---
+
+## Current Focus
+
+- Building reusable automation skills for creative workflows
+- Integrating AI into experimental artistic practice
+- Documenting material transformation through digital systems
+- Developing post-institutional exhibition models
+- Expanding creative coding toolkit for artists
+
+---
+
+## Selected Projects
+
+| Repository | Focus |
+|-----------|-------|
+| [cowork-skills](https://github.com/RL89744/cowork-skills) | Reusable automation & productivity workflows for Claude |
+| [claude-sandbox](https://github.com/RL89744/claude-sandbox) | Experimental playground for AI-assisted creative systems |
+| [skills-marketplace](https://github.com/RL89744/Skills-Marketplace-) | Curated collection of automation workflows & tools |
+
+---
+
+## Find Me Elsewhere
+
+**Studio & Work**
+- [Studio Website](https://robertlanz.com/) — Paintings, sculptures, projects
+- [Linktree](https://linktr.ee/robert_lanz) — Complete link directory
+
+**Social & Community**
+- Instagram: [@robert_lanz_](https://instagram.com/robert_lanz_)
+- YouTube: [Studio Clips & Documentations](https://youtube.com/channel/UCRGDG_frSuAmZmXTyAJHAyA)
+- Bluesky: [@robertlanz.bsky.social](https://bsky.app/profile/robertlanz.bsky.social)
+- LinkedIn: [Robert Lanz](https://linkedin.com/in/rlanz)
+
+**Support & Engage**
+- [Patreon](https://patreon.com/robert_lanz) — Join the studio circle
+- [Discord](https://discord.com/invite/PBrzEZQhqA) — Community server
+- [Substack](https://substack.com/@robertlanz1) — Essays & insights
+
+---
+
+## Background
+
+**Education**: Meisterschüler (Postgraduate Master equivalent), Berlin University of the Arts (UdK)
+
+**Represented by**: Evelyn Drewes Galerie, Berlin
+
+**Institutional Presence**: KunststiftungKunze, ArtFacts, Creative City Berlin
+
+**Experience**: 17+ years exploring material research, institutional critique, and creative automation at the intersection of art and technology.
+
+---
+
+## Let's Collaborate
+
+I'm interested in projects that bridge art, code, and creative systems. Whether you're exploring AI-assisted workflows, building automation tools, or creating experimental art — let's talk.
+
+→ [Contact](https://robertlanz.com/contact/) | [@robert_lanz_](https://x.com/robert_lanz_) | [Studio](https://robertlanz.com/)
+
+---
+
+*Building experimental workflows at the intersection of art and technology. Based in Berlin.* 🇩🇪
