@@ -105,4 +105,4 @@ I'm interested in projects that bridge art, code, and creative systems. Whether 
 
 ---
 
-*Building experimental workflows at the intersection of art and technology. Based in Berlin.* 🇩🇪
+*Building experimental workflows at the intersection of art and technology. Based in Berlin.*
