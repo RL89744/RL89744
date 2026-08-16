@@ -42,7 +42,7 @@ Mobile exhibition system reimagining post-institutional display models.
 - **Knowledge Systems**: Obsidian, structured note-taking, PKM architecture
 - **Creative Tools**: 3D scanning (Polycam), digital documentation, NFT integrations
 - **Development**: Python, Node.js, automation scripting, data workflows
-- **Platforms**: GitHub, Cowork, AI-assisted creative systems
+- **Platforms**: GitHub, Claude Cowork, AI-assisted creative systems
 
 ---
 
@@ -58,11 +58,28 @@ Mobile exhibition system reimagining post-institutional display models.
 
 ## Selected Projects
 
-| Repository | Focus |
-|-----------|-------|
-| [cowork-skills](https://github.com/RL89744/cowork-skills) | Reusable automation & productivity workflows for Claude |
-| [claude-sandbox](https://github.com/RL89744/claude-sandbox) | Experimental playground for AI-assisted creative systems |
-| [skills-marketplace](https://github.com/RL89744/Skills-Marketplace-) | Curated collection of automation workflows & tools |
+### [claude-skills](https://github.com/RL89744/claude-skills)
+
+Seven reusable Claude Skills, each in its own folder with a `SKILL.md` and a
+README explaining what it does, how to install it and where its limits are.
+German-language, MIT licensed.
+
+| Area | Skills |
+|---|---|
+| Business & law | [`rechnung-erstellen`](https://github.com/RL89744/claude-skills/tree/main/rechnung-erstellen) · [`vertrag-pruefen`](https://github.com/RL89744/claude-skills/tree/main/vertrag-pruefen) · [`werkverkauf-erfassen`](https://github.com/RL89744/claude-skills/tree/main/werkverkauf-erfassen) |
+| Writing & research | [`ki-spuren-entfernen`](https://github.com/RL89744/claude-skills/tree/main/ki-spuren-entfernen) · [`schnellrecherche`](https://github.com/RL89744/claude-skills/tree/main/schnellrecherche) |
+| Chat & knowledge | [`chat-compaction`](https://github.com/RL89744/claude-skills/tree/main/chat-compaction) · [`chat-in-obsidian-speichern`](https://github.com/RL89744/claude-skills/tree/main/chat-in-obsidian-speichern) |
+
+The collection is the working documentation of my own methods rather than a
+coding portfolio: invoicing and contract review for the studio side, artwork
+sales tied into the existing catalogue, and the writing, research and archiving
+routines that keep the rest running.
+
+### [AERIS](https://github.com/RL89744/AERIS)
+
+Fragrance in suspension. Generative video, 2025, a glass sphere dissolving into
+scent.
+→ [Galerie Weekend Special](https://robertlanz.com/aeris)
 
 ---
 
